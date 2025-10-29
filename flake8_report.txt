@@ -1,0 +1,10 @@
+inventory_system.py:2:1: F401 'logging' imported but unused
+inventory_system.py:10:1: E303 too many blank lines (3)
+inventory_system.py:64:1: E302 expected 2 blank lines, found 1
+inventory_system.py:68:1: E302 expected 2 blank lines, found 1
+inventory_system.py:73:1: E302 expected 2 blank lines, found 1
+inventory_system.py:80:1: E302 expected 2 blank lines, found 1
+inventory_system.py:91:1: W293 blank line contains whitespace
+inventory_system.py:93:1: W293 blank line contains whitespace
+inventory_system.py:94:1: E305 expected 2 blank lines after class or function definition, found 1
+inventory_system.py:94:7: W292 no newline at end of file
